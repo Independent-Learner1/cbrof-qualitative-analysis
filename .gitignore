@@ -1,0 +1,21 @@
+# ---- Research data: never commit transcripts, audio or outputs that contain quotations
+*.zip
+*.docx
+*.xlsx
+*.csv
+*.mp3
+*.m4a
+*.wav
+data/
+transcripts/
+CBR-OF_QDA_Results*/
+names_to_mask.txt
+manual_coding*.csv
+
+# ---- Python and notebooks
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
