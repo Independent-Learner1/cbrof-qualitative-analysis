@@ -4,8 +4,6 @@ Live, reproducible qualitative analysis of stakeholder workshop transcripts for 
 
 Give it a zip of transcripts and it returns one zip with NVivo-style outputs: a coded dataset, figures, tables, an Excel coding workbook and a Word report.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/cbrof-qualitative-analysis/blob/main/notebooks/CBR-OF_QDA_Colab.ipynb)
-
 ## What the pipeline does
 
 Every step runs live on the transcripts you supply:
