@@ -1,8 +1,11 @@
 # CBR-OF Qualitative Analysis
 
-Live, reproducible qualitative analysis of stakeholder workshop transcripts for **community-based rehabilitation and prevention care services for obstetric fistula (CBR-OF)** in Kenya.
+Live, reproducible qualitative analysis of **stakeholder workshop transcripts for community-based rehabilitation and prevention care services for obstetric fistula (CBR-OF)** in Kenya.
 
 Give it a zip of transcripts and it returns one zip with NVivo-style outputs: a coded dataset, figures, tables, an Excel coding workbook and a Word report.
+
+![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+
 
 ## What the pipeline does
 
