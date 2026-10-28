@@ -6,8 +6,6 @@ Give it a zip of transcripts and it returns one zip with NVivo-style outputs: a 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/cbrof-qualitative-analysis/blob/main/notebooks/CBR-OF_QDA_Colab.ipynb)
 
-> Replace `YOUR-USERNAME` in the badge link with your GitHub username after you publish the repository.
-
 ## What the pipeline does
 
 Every step runs live on the transcripts you supply:
