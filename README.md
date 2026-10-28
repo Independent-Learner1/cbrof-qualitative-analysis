@@ -93,7 +93,7 @@ Rule-based coding is transparent and reproducible, but it is literal. It finds i
 
 If you use this code, please cite the repository:
 
-> Osengo. (2026). *CBR-OF qualitative analysis* [Computer software]. GitHub. https://github.com/YOUR-USERNAME/cbrof-qualitative-analysis
+> Kavulavu B. M. (2026). *CBR-OF qualitative analysis* [Computer software]. GitHub. https://github.com/Independent-Learner1/cbrof-qualitative-analysis
 
 ## Licence
 
